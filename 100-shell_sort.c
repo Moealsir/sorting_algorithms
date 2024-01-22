@@ -1,7 +1,4 @@
-#include <stddef.h>
-#include <stdio.h>
-
-void print_array(const int *array, size_t size);
+#include "sort.h"
 
 /**
  * shell_sort - Sorts an array of integers in ascending order using Shell sort
